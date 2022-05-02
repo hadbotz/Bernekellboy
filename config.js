@@ -19,7 +19,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6289695073357','6281224413305','6289695073357']
-global.ownernumber = 'wa.me/6289695073357'
+global.ownernumber = 'wa.me/6289695073857'
 global.ownername = 'Bernekellboy🔥'
 global.botname = 'Bernekell-Bot🤖'
 global.packname = '© BERNEKELLBOT-MD'
